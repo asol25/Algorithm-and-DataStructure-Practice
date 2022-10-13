@@ -1,0 +1,36 @@
+* {
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+}
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.grid {
+    display: grid;
+}
+.header,
+.footer,
+.Github {
+    padding: 1em;
+    background-color: green;
+    color: gold;
+}
+
+.section {
+    margin: 2em;
+}
+
+.canvas {
+    display: flex;
+    flex-wrap: wrap;
+}
